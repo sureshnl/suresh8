@@ -1,0 +1,62 @@
+{
+  "career":{
+  "info":  "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+    },
+  "education":[
+    {
+    "degree":"Master of computer application",
+    "institute":"Siddhath institute of engineering & technology",
+    "data":["2016-19","81"]
+  },
+    {
+    "degree":"Bsc(electronics)",
+    "institute":"Sri Surya Degree college",
+    "data":["2013-16","66"]
+  },
+    {
+    "degree":"Intermediate(MPC)",
+    "institute":"Sri Surya junior college",
+    "data":["2011-13","68"]
+  },
+  {
+  "degree":"S.S.C",
+  "institute":"Vasishtha Vidhyalaya",
+  "data":["2010-11","66"]
+  }
+],
+  "skills" :
+  [
+    {
+      "title":"Programing Languages",
+      "set":["java","c","c#","python"]
+    },
+    {
+      "title":"Web technologys",
+      "set":["HTML","CSS","PHP","javascript"]
+    },
+    {
+      "title":"Dta Bases",
+      "set":["Sql","mySql","Oracle","NoSql"]
+    },
+    {
+      "title":"Programing Languages",
+      "set":["java","c","c#","python"]
+    },
+    {
+      "title":"Operating System",
+      "set":["Windows","DOS","Linux","unix"]
+    }
+  ],
+  "achievement":[
+    {
+      "achievedData":"Got 1<sop>st</sup> Prize in PPT presentstion."
+    },
+      {
+        "achievedData":"Got 1<sop>st</sup> Prize in Adzup event."
+      },
+      {
+        "achievedData":"Got 1<sop>st</sup> Prize in Treasure hunt ."
+      }
+  ]
+
+}
